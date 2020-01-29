@@ -5,7 +5,7 @@
 
 **Topic you chose:**
 
-**Sprint Number:** Nr 1
+**Sprint Number:** 1
 
 **Scrum Master**: Phillip Nguyen
 
@@ -14,11 +14,11 @@
 ### Sprint Planning (For Sprint 1-4)
 We copied the Sprint 1 and user stories provided by the professor.
 
-**Sprint Goal:** Your Sprint goal
+**Sprint Goal:** UNDERSTANDING THE MAIN FEATURES OF MEMORANDA AND FIXING OBVIOUS BUGS
 
-**How many User Stories did you add to the Product Backlog:**  Number
+**How many User Stories did you add to the Product Backlog:**  14
 
-**How many User Stories did you add to this Sprint:** 
+**How many User Stories did you add to this Sprint:** 11
 > Answer the questions below about your Sprint Planning?
 
 **Why did you add exactly these US?**
