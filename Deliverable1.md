@@ -5,14 +5,14 @@
 
 **Topic you chose:**
 
-**Sprint Number:** Nr
+**Sprint Number:** Nr 1
 
-**Scrum Master**: Name
+**Scrum Master**: Phillip Nguyen
 
-**Git Master**: Name
+**Git Master**: Nadia Alolyani
 
 ### Sprint Planning (For Sprint 1-4)
-Document your Sprint Planning here. Also check the kickoff document for more details on what needs to be done. This is just the documentation. 
+We copied the Sprint 1 and user stories provided by the professor.
 
 **Sprint Goal:** Your Sprint goal
 
