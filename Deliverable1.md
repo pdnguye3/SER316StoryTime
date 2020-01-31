@@ -23,15 +23,15 @@ We copied the Sprint 1 and user stories provided by the professor.
 
 **Why did you add exactly these US?**
 
-> Your Answer
+> To understand the main features of memoranda.
 
 **Why do you think you will get them done? (details)**
 
-> Your Answer
+> Because we'll assign work correctly and have good work flow and ethic.
 
 **Do you have a rough idea what you need to do? (if the answer is no then please let me know on Slack)**
 
-> Your Answer
+> Yes.
 
 
 
@@ -140,9 +140,9 @@ I would also advise you to already fill out the Contributions section (End of sp
   
 ## 4: Checklist for you to see if you are done
 - [ ] Filled out the complete form from above, all fields are filled and written in full sentences
-- [ ] Read the kickoff again to make sure you have all the details
+- [X] Read the kickoff again to make sure you have all the details
 - [ ] User Stories that were not completed, were left in the Sprint and a copy created
-- [ ] Your Quality Policies are accurate and up to date
+- [X] Your Quality Policies are accurate and up to date
 - [ ] **Individual** Survey was submitted **individually** (create checkboxes below -- see Canvas to get link)
   - [ ] Team member 1
   - [ ] Team member 2
